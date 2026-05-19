@@ -1,0 +1,1344 @@
+[
+  {
+    "id": "importance-of-email-marketing",
+    "title": "The Importance of Email Marketing and How It Can Drive Business Growth",
+    "date": "Apr 2025",
+    "sortDate": "2025-04-01",
+    "author": "Harsimran Singh",
+    "authorBio": "Head of Project Management",
+    "authorImage": "/images/team/harry.png",
+    "authorInfo": "Writes about CRM, email marketing, and Salesforce automation. Helping businesses untangle their tech stack one blog at a time.",
+    "category": "Marketing",
+    "image": "/images/blogs/one.png",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "In the digital era, email marketing remains one of the most effective and direct channels for reaching potential customers and driving business growth. Despite the rise of social media and other communication platforms, email marketing delivers a higher ROI and better customer engagement when executed strategically."
+      },
+      {
+        "type": "heading",
+        "text": "Why Email Marketing Matters"
+      },
+      {
+        "type": "list",
+        "items": [
+          "High ROI: Email marketing consistently ranks as the highest ROI channel. According to reports, for every $1 spent on email marketing, the average return is $42.",
+          "Direct Communication: Emails land directly in the recipient's inbox, offering a more personal and targeted approach compared to social media or display ads.",
+          "Automation and Personalization: Modern email tools allow for advanced segmentation, personalized messaging, and automated workflows, improving engagement and conversion rates.",
+          "Lead Generation and Nurturing: Email marketing helps businesses not only generate new leads but also nurture existing leads through targeted content and follow-ups.",
+          "Customer Retention: Consistent and value-driven emails help retain customers, improve loyalty, and increase lifetime value."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "How Email Marketing Helps Generate Leads and Revenue"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Lead Capture: Email marketing platforms enable businesses to create lead capture forms, landing pages, and automated workflows to convert visitors into leads.",
+          "Lead Nurturing: Automated sequences (like welcome emails, onboarding, and product updates) help nurture leads down the sales funnel.",
+          "Upselling and Cross-Selling: Personalized product recommendations based on user behavior increase upselling and cross-selling opportunities.",
+          "Customer Retention: Targeted follow-up emails and re-engagement campaigns keep customers engaged and improve retention rates."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Comparison of Top Email Marketing Tools"
+      },
+      {
+        "type": "paragraph",
+        "text": "Here's a comparison of some of the top email marketing platforms and their key features:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Tool",
+          "Primary Focus",
+          "Key Features",
+          "Best For"
+        ],
+        "rows": [
+          [
+            "Twilio - SendGrid",
+            "Email API & Automation",
+            "Templates, segmentation, A/B testing",
+            "Transactional emails & scalability"
+          ],
+          [
+            "ActiveCampaign",
+            "Customer experience automation",
+            "Segmentation, CRM, dynamic content",
+            "Advanced automation"
+          ],
+          [
+            "MailChimp",
+            "Email marketing for small businesses",
+            "AI, drag-drop builder, workflows",
+            "SMBs & starters"
+          ],
+          [
+            "Account Engagement (Pardot)",
+            "B2B automation",
+            "Lead scoring, Salesforce sync",
+            "Salesforce users"
+          ],
+          [
+            "HubSpot",
+            "Inbound marketing",
+            "CRM integration, triggers",
+            "Sales-marketing alignment"
+          ],
+          [
+            "YesWare",
+            "Sales engagement",
+            "Email tracking, templates",
+            "Sales prospecting"
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Choosing the Right Tool for Your Business"
+      },
+      {
+        "type": "paragraph",
+        "text": "Selecting the right email marketing tool depends on your business model, customer base, and automation needs:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "For transactional emails → Twilio - SendGrid",
+          "For CRM integration and advanced automation → ActiveCampaign or HubSpot",
+          "For small businesses → MailChimp",
+          "For B2B lead generation and Salesforce integration → Account Engagement (Pardot)",
+          "For sales-focused engagement → YesWare"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Ready to Optimize Your Email Strategy?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Email marketing is more than just sending newsletters,  it's about building relationships, driving engagement, and increasing revenue. If you're looking to build a targeted, automated, and high-performing email marketing strategy, I can help you select the right tool and set up a tailored system."
+      },
+      {
+        "type": "paragraph",
+        "text": "Reach out to us to discuss how we can enhance your email marketing strategy and drive business growth! ​"
+      }
+    ]
+  },
+  {
+    "id": "quote-to-cash-in-salesforce",
+    "title": "Quote-to-Cash in Salesforce: Streamlining Revenue with the Right Tools",
+    "date": "May 2025",
+    "sortDate": "2025-05-01",
+    "author": "Harsimran Singh",
+    "authorBio": "Head of Project Management",
+    "authorImage": "/images/team/harry.png",
+    "authorInfo": "Writes about CRM, email marketing, and Salesforce automation. Helping businesses untangle their tech stack one blog at a time.",
+    "category": "Salesforce",
+    "image": "/images/blogs/two.png",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "In today's fast-moving digital economy, businesses need more than just a great product, they need a seamless Quote-to-Cash (Q2C) process that connects sales and finance. For Salesforce customers, the Q2C journey can be fully automated and optimized using Salesforce's native tools like Revenue Cloud, CPQ, Billing, and Contract Lifecycle Management, along with powerful third-party integrations."
+      },
+      {
+        "type": "paragraph",
+        "text": "This blog explores the Q2C process in the Salesforce ecosystem, covers its key components, and compares the best tools and technologies, including when to use Salesforce-native apps vs. external tools like Zuora, Conga, or DealHub."
+      },
+      {
+        "type": "heading",
+        "text": "What is Quote-to-Cash (Q2C) in the Salesforce Ecosystem?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Quote-to-Cash (Q2C) refers to the end-to-end business process that starts from configuring a quote and ends with revenue recognition. Within Salesforce, this process is fully supported by tools like Sales Cloud, CPQ, Revenue Cloud, and integrations with ERP, CLM, and payment gateways."
+      },
+      {
+        "type": "paragraph",
+        "text": "Salesforce's Q2C solution ensures:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Real-time pricing",
+          "Automated approvals",
+          "Contract creation",
+          "Order fulfillment",
+          "Invoicing and revenue recognition"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Key Components of the Q2C Process and Salesforce Solutions"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Q2C Step",
+          "Description",
+          "Salesforce & Other Tools"
+        ],
+        "rows": [
+          [
+            "Product Configuration",
+            "Configure complex products and bundles based on customer needs.",
+            "Salesforce CPQ, Zuora CPQ, Oracle CPQ"
+          ],
+          [
+            "Pricing & Discounting",
+            "Apply pricing rules, volume discounts, and deal-specific offers.",
+            "Salesforce CPQ, PROS Pricing, Zilliant"
+          ],
+          [
+            "Quote Generation",
+            "Auto-generate branded, compliant quotes with approvals.",
+            "Salesforce CPQ, Conga Composer, PandaDoc"
+          ],
+          [
+            "Contract Management",
+            "Draft, negotiate, and store contracts with versioning and e-signature.",
+            "Salesforce CLM, Conga CLM, DocuSign CLM"
+          ],
+          [
+            "Order Management",
+            "Route and fulfill orders through integrated ERP or OMS.",
+            "Salesforce Order Management, NetSuite, SAP OMS"
+          ],
+          [
+            "Invoicing & Billing",
+            "Create and send invoices, support recurring/subscription billing.",
+            "Salesforce Billing, Zuora Billing, Stripe"
+          ],
+          [
+            "Payment Collection",
+            "Manage multi-currency payments, digital wallets, and dunning.",
+            "Salesforce Payments, GoCardless, Authorize.Net"
+          ],
+          [
+            "Revenue Recognition",
+            "Recognize revenue according to ASC 606 & IFRS 15.",
+            "Salesforce Revenue Cloud, Zuora Revenue, Oracle ERP"
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "When to Use Which Tool?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Here's a guide to help choose the right solution based on your business needs:"
+      },
+      {
+        "type": "subheading",
+        "text": "Use Salesforce Revenue Cloud if:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "You're already using Salesforce CRM and want tight integration with Sales, CPQ, Billing, and Revenue Recognition.",
+          "You sell subscription-based, usage-based, or recurring products.",
+          "You need real-time visibility across your revenue lifecycle.",
+          "You want a single-source-of-truth across Sales, Finance, and Customer Service.",
+          "Ideal for: SaaS, High-tech, B2B services"
+        ]
+      },
+      {
+        "type": "subheading",
+        "text": "Use Zuora CPQ & Zuora Revenue if:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "You manage complex subscription models, upsells, renewals, and mid-term amendments.",
+          "You need to integrate deeply with finance systems and support high-volume billing.",
+          "You're a public company or preparing for IPO with strict GAAP compliance needs.",
+          "Ideal for: Media, Telecom, IoT, FinTech"
+        ]
+      },
+      {
+        "type": "subheading",
+        "text": "Use Conga CLM or DocuSign CLM if:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "You want advanced contract lifecycle management with custom clause libraries and legal playbooks.",
+          "You need integration with e-signature platforms and version control.",
+          "Your legal/compliance team needs visibility into obligations and expirations.",
+          "Ideal for: Legal-heavy industries, large enterprise sales, complex procurement cycles"
+        ]
+      },
+      {
+        "type": "subheading",
+        "text": "Use DealHub or PandaDoc if:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "You want lightweight quoting with integrated sales enablement tools.",
+          "You need interactive quotes and easy setup for SMB or mid-market.",
+          "Your team values speed and flexibility over heavy process.",
+          "Ideal for: SMBs, eCommerce, fast-growing startups"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Best Practices for a Salesforce-Powered Q2C Process"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Standardize product catalog and pricing rules in Salesforce CPQ",
+          "Use Flow/Process Builder to automate approvals and quote submissions",
+          "Integrate ERP for inventory and fulfillment sync",
+          "Leverage Salesforce Revenue Cloud to recognize revenue and ensure compliance",
+          "Use dashboards and Einstein Analytics for real-time revenue insights"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Conclusion"
+      },
+      {
+        "type": "paragraph",
+        "text": "The Quote-to-Cash process isn't just about sales, it's about how efficiently your entire organization delivers value and gets paid for it. With Salesforce and its ecosystem of tools, you can build a scalable, accurate, and compliant Q2C engine that empowers growth and customer satisfaction."
+      },
+      {
+        "type": "paragraph",
+        "text": "Whether you're a SaaS startup, manufacturing giant, or B2B service provider, choosing the right Q2C stack is crucial. If you need help evaluating, implementing, or optimizing your Q2C process within Salesforce, Untangle IT is here to help."
+      },
+      {
+        "type": "heading",
+        "text": "FAQs: Salesforce & Quote-to-Cash"
+      },
+      {
+        "type": "subheading",
+        "text": "What is Salesforce Revenue Cloud ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "It's an integrated suite combining CPQ, Billing, and Revenue Recognition under one platform, designed to manage the entire revenue lifecycle."
+      },
+      {
+        "type": "subheading",
+        "text": "Can Salesforce integrate with external billing systems like Zuora or Stripe ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Yes, Salesforce supports native and API-based integrations with tools like Zuora, Stripe, GoCardless, and more."
+      },
+      {
+        "type": "subheading",
+        "text": "Is Salesforce CPQ suitable for complex product configurations?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Absolutely. Salesforce CPQ is highly customizable and handles guided selling, product bundling, and complex rule-based pricing."
+      }
+    ]
+  },
+  {
+    "id": "salesforce-manufacturing-cloud",
+    "title": "Unlocking Efficiency and Growth with Salesforce Manufacturing Cloud",
+    "date": "June 2025",
+    "sortDate": "2025-06-01",
+    "author": "Harsimran Singh",
+    "authorBio": "Head of Project Management",
+    "authorImage": "/images/team/harry.png",
+    "authorInfo": "Writes about CRM, email marketing, and Salesforce automation. Helping businesses untangle their tech stack one blog at a time.",
+    "category": "Salesforce",
+    "image": "/images/blogs/three.png",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "In today's highly competitive industrial landscape, manufacturers face constant pressure to boost efficiency, enhance transparency, and align operations with real-time customer demand. From forecasting production to managing partner relationships and tracking revenue, having siloed systems is no longer sustainable. This is where Salesforce Manufacturing Cloud steps in, a powerful solution tailored specifically for manufacturers looking to unify sales and operations, gain real-time visibility, and make data-driven decisions that lead to measurable growth."
+      },
+      {
+        "type": "heading",
+        "text": "What Is Salesforce Manufacturing Cloud?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Unlike traditional CRM systems, it offers prebuilt industry-specific data models and APIs, allowing manufacturers to gain real-time insights into account performance, manage channel partners, and optimize production planning all within the trusted Salesforce ecosystem."
+      },
+      {
+        "type": "heading",
+        "text": "Key Features That Set It Apart"
+      },
+      {
+        "type": "subheading",
+        "text": "1. Sales Agreements"
+      },
+      {
+        "type": "paragraph",
+        "text": "Traditional sales processes often fail to account for long-term commitments and variable purchase patterns. Manufacturing Cloud enables businesses to define and track sales agreements, ensuring a shared understanding of product quantities, pricing, and delivery schedules between sales teams and customers."
+      },
+      {
+        "type": "subheading",
+        "text": "2. Account-Based Forecasting"
+      },
+      {
+        "type": "paragraph",
+        "text": "Forecasting is not just about estimates but about accuracy and agility. This feature enables real-time tracking and adjustments to forecasts based on historical data, in-flight orders, and actuals, giving teams a single source of truth."
+      },
+      {
+        "type": "subheading",
+        "text": "3. Manufacturing Data Model & APIs"
+      },
+      {
+        "type": "paragraph",
+        "text": "Salesforce provides a standardized data model tailored for manufacturers, allowing seamless integration with ERP systems, production schedules, and more. Through its powerful Manufacturing APIs, you can automate data syncs and enable real-time updates across departments."
+      },
+      {
+        "type": "subheading",
+        "text": "4. Partner Community Integration"
+      },
+      {
+        "type": "paragraph",
+        "text": "Manufacturers often rely on distributors, wholesalers, and reps. With Experience Cloud integration, you can give your partners controlled access to Salesforce, improving collaboration while maintaining data governance."
+      },
+      {
+        "type": "heading",
+        "text": "Real-World Benefits"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Greater Forecast Accuracy: Manufacturers can align production planning with demand, reducing excess inventory and minimizing stockouts.",
+          "Operational Alignment: Sales and operations teams work off the same data set, leading to faster decision-making and fewer misunderstandings.",
+          "Stronger Partner Relationships: Transparent, real-time access to performance data empowers your channel partners to stay on target and grow your mutual business.",
+          "Scalable and Configurable: Whether you're a global manufacturer or a niche supplier, Manufacturing Cloud can scale with your needs and adapt to your unique processes."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Integrating Manufacturing Cloud: Our Experience"
+      },
+      {
+        "type": "paragraph",
+        "text": "At Untangle IT, we've helped several manufacturing firms leverage Salesforce to modernize their revenue operations. By integrating Salesforce Manufacturing Cloud with ERP platforms and partner portals, we've enabled real-time forecasting, automated sales agreement tracking, and improved visibility into order pipelines. For one of our clients, switching to Manufacturing Cloud reduced forecasting errors by 40% and accelerated sales agreement reconciliation by 60%."
+      },
+      {
+        "type": "heading",
+        "text": "Final Thoughts"
+      },
+      {
+        "type": "paragraph",
+        "text": "Manufacturing is evolving,  and so should your systems. With Salesforce Manufacturing Cloud, you gain the agility, insights, and control needed to navigate today's market and future-proof your operations. If you're looking to implement or optimize Salesforce for your manufacturing business, our team at Untangle IT is ready to help. Let's talk about how we can streamline your operations and unlock growth."
+      }
+    ]
+  },
+  {
+    "id": "salesforce-professional-vs-enterprise-edition",
+    "title": "Salesforce Professional vs. Enterprise Edition: Which One Is Right for Your Business?",
+    "date": "July 2025",
+    "sortDate": "2025-07-01",
+    "author": "Harsimran Singh",
+    "authorBio": "Head of Project Management",
+    "authorImage": "/images/team/harry.png",
+    "authorInfo": "Writes about CRM, email marketing, and Salesforce automation. Helping businesses untangle their tech stack one blog at a time.",
+    "category": "Salesforce",
+    "image": "/images/blogs/four.png",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "When choosing a CRM that fits your organization's needs, Salesforce is often the front-runner. But within Salesforce itself, businesses face a critical decision: Professional Edition vs. Enterprise Edition. While both offer robust capabilities, the right choice depends on your company's size, process complexity, and scalability requirements."
+      },
+      {
+        "type": "paragraph",
+        "text": "In this blog, we break down the key differences between the two editions to help you make an informed decision."
+      },
+      {
+        "type": "heading",
+        "text": "Overview of the Editions"
+      },
+      {
+        "type": "subheading",
+        "text": "Salesforce Professional Edition"
+      },
+      {
+        "type": "paragraph",
+        "text": "Aimed at small to mid-sized businesses, the Professional Edition offers essential CRM features like account and contact management, opportunity tracking, and basic automation. It's ideal for organizations that want out-of-the-box functionality with minimal complexity."
+      },
+      {
+        "type": "subheading",
+        "text": "Salesforce Enterprise Edition"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tailored for growing or large organizations, the Enterprise Edition unlocks advanced customization, automation, and integration capabilities. It supports more complex sales processes, security models, and development environments."
+      },
+      {
+        "type": "heading",
+        "text": "Feature Comparison"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Feature",
+          "Professional Edition",
+          "Enterprise Edition"
+        ],
+        "rows": [
+          [
+            "Users",
+            "Up to 10–50 (ideal range)",
+            "Unlimited"
+          ],
+          [
+            "Custom Objects",
+            "Limited (max 50)",
+            "Up to 300"
+          ],
+          [
+            "Process Automation",
+            "Basic workflows",
+            "Advanced flows, Process Builder, Approval Processes"
+          ],
+          [
+            "API Access",
+            "Not included by default",
+            "Included"
+          ],
+          [
+            "Record Types",
+            "Not available",
+            "Available"
+          ],
+          [
+            "Profiles & Permission Sets",
+            "Basic",
+            "Advanced control"
+          ],
+          [
+            "Development & Sandboxes",
+            "1 partial (for some plans)",
+            "1x Developer & Partial Copy"
+          ],
+          [
+            "Custom Apps",
+            "Limited",
+            "Unlimited"
+          ],
+          [
+            "Sales Forecasting",
+            "Basic",
+            "Advanced, Collaborative Forecasting"
+          ],
+          [
+            "Territory Management",
+            "Not available",
+            "Available"
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "When to Choose Professional Edition"
+      },
+      {
+        "type": "list",
+        "items": [
+          "You're a small business with limited technical resources.",
+          "You don't need advanced automation or integrations (e.g., with ERP systems).",
+          "Your team can work with pre-configured fields and workflows.",
+          "You want lower licensing costs and fewer admin requirements."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "When to Choose Enterprise Edition"
+      },
+      {
+        "type": "list",
+        "items": [
+          "You have complex sales or service processes that require automation.",
+          "You need integration with third-party tools or custom-built apps.",
+          "You have multiple business units or user roles needing permission-based access.",
+          "You want full control over workflows, approvals, APIs, and advanced reporting."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Pricing Consideration"
+      },
+      {
+        "type": "paragraph",
+        "text": "As of 2025, here's a ballpark monthly cost per user (subject to change):"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Professional Edition: ~$75/user/month",
+          "Enterprise Edition: ~$150/user/month"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "While Enterprise is more expensive, the ROI can quickly outweigh the cost through increased automation, better data management, and integration flexibility."
+      },
+      {
+        "type": "heading",
+        "text": "Final Thoughts: Which One Wins?"
+      },
+      {
+        "type": "paragraph",
+        "text": "There's no one-size-fits-all answer. Here's a quick cheat sheet:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Go Professional: If you're starting out or want to keep things simple.",
+          "Go Enterprise: If you need flexibility, automation, or plan to scale fast."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Still unsure? A Salesforce consultant (like us at Untangle IT) can analyze your processes and recommend the edition that best aligns with your goals."
+      },
+      {
+        "type": "heading",
+        "text": "Need Help Choosing the Right Salesforce Edition?"
+      },
+      {
+        "type": "paragraph",
+        "text": "At Untangle IT, we've helped businesses across industries implement Salesforce solutions tailored to their unique needs. Whether you're upgrading from one edition to Enterprise or starting fresh, our certified consultants can guide you every step of the way."
+      }
+    ]
+  },
+  {
+    "id": "esignature-software-compliance-crm-integration",
+    "title": "E-Signature Software: The Complete Guide to Compliance & CRM Integration",
+    "date": "May 2026",
+    "sortDate": "2026-05-01",
+    "author": "Harsimran Singh",
+    "authorBio": "Head of Project Management",
+    "authorImage": "/images/team/harry.png",
+    "authorInfo": "Writes about CRM, email marketing, and Salesforce automation. Helping businesses untangle their tech stack one blog at a time.",
+    "category": "Tools & Integration",
+    "image": "/images/blogs/five.png",
+    "readTime": "12 min read",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "The days of printing, signing, scanning, and emailing PDF contracts are behind us. E-signature platforms have become mission-critical infrastructure for sales, legal, and operations teams, but picking the wrong one can mean compliance gaps, CRM data silos, or surprise invoice spikes. This guide breaks down what actually matters."
+      },
+      {
+        "type": "callout",
+        "text": "Bottom line up front: Most vendors cover ESIGN, UETA, eIDAS, and SOC 2. The real differentiators are HIPAA, 21 CFR Part 11, QES support, and whether your Salesforce or HubSpot connector is native or just a Zapier bridge."
+      },
+      {
+        "type": "heading",
+        "text": "Compliance Frameworks to Know"
+      },
+      {
+        "type": "paragraph",
+        "text": "Before evaluating any vendor, you need to understand which legal frameworks govern your signing use case. Getting this wrong isn't just a compliance headache, it can invalidate contracts entirely."
+      },
+      {
+        "type": "subheading",
+        "text": "ESIGN Act & UETA (United States)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The Electronic Signatures in Global and National Commerce Act (ESIGN) is the federal foundation for e-signature validity in interstate commerce. UETA is the state-level equivalent, adopted in 49 states. Together, they make electronic signatures legally equivalent to handwritten ones for most business contracts."
+      },
+      {
+        "type": "subheading",
+        "text": "eIDAS (EU & UK)"
+      },
+      {
+        "type": "paragraph",
+        "text": "eIDAS establishes three tiers of electronic signatures, Simple (SES), Advanced (AES), and Qualified (QES). QES is the gold standard: legally treated as equivalent to a handwritten signature and required for certain high-value contracts in EU member states."
+      },
+      {
+        "type": "subheading",
+        "text": "HIPAA (US Healthcare)"
+      },
+      {
+        "type": "paragraph",
+        "text": "If protected health information (PHI) flows through your e-signature platform, you need a signed Business Associate Agreement (BAA) from your vendor. \"HIPAA compliant\" on a marketing page means nothing without a BAA. Always request the BAA template before you buy."
+      },
+      {
+        "type": "subheading",
+        "text": "21 CFR Part 11 (FDA · Life Sciences)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Required for electronic records and signatures in FDA-regulated pharma, biotech, and medical device workflows. This is the most demanding certification in the industry, only a handful of vendors genuinely support it."
+      },
+      {
+        "type": "subheading",
+        "text": "SOC 2 Type II & GDPR"
+      },
+      {
+        "type": "paragraph",
+        "text": "SOC 2 Type II is an independently audited security controls report and has become a buyer baseline for any SaaS tool. GDPR applies if you're processing the personal data of EU residents, you'll need to verify data residency options and processing agreements."
+      },
+      {
+        "type": "note",
+        "text": "PCI DSS note: Required only if payment data flows through the e-signature platform, for example, if you're combining proposal, signing, and payment collection in one tool like PandaDoc."
+      },
+      {
+        "type": "heading",
+        "text": "Vendor Comparison at a Glance"
+      },
+      {
+        "type": "paragraph",
+        "text": "Here's the full competitive landscape at a glance. Native = first-party app on AppExchange or HubSpot App Marketplace, not a Zapier bridge. That distinction matters enormously for data sync reliability and workflow automation."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Vendor",
+          "Salesforce",
+          "HubSpot",
+          "HIPAA",
+          "21 CFR",
+          "SOC 2 II",
+          "Entry Price"
+        ],
+        "rows": [
+          [
+            "DocuSign",
+            "Native",
+            "Native",
+            "✓",
+            "✓",
+            "✓",
+            "$25/user/mo"
+          ],
+          [
+            "Adobe Acrobat Sign",
+            "Native",
+            "Native",
+            "~",
+            "✓",
+            "✓",
+            "$17/user/mo"
+          ],
+          [
+            "PandaDoc",
+            "Native 2-way",
+            "Native 2-way",
+            "✓",
+            ",",
+            "✓",
+            "$19/user/mo"
+          ],
+          [
+            "Dropbox Sign",
+            "Native",
+            "Native",
+            "~",
+            ",",
+            "✓",
+            "$15/user/mo"
+          ],
+          [
+            "OneSpan Sign",
+            "Native",
+            "API/Zapier",
+            "✓",
+            "✓",
+            "✓",
+            "$22/user/mo"
+          ],
+          [
+            "GetAccept",
+            "Native",
+            "Native",
+            "~",
+            ",",
+            "✓",
+            "$25/user/mo"
+          ],
+          [
+            "BoldSign",
+            "Native",
+            "Native",
+            "✓",
+            ",",
+            "✓",
+            "Free / $15/user/mo"
+          ],
+          [
+            "Signeasy",
+            "API/Zapier",
+            "API/Zapier",
+            "✓",
+            "✓",
+            "✓",
+            "$20/user/mo"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "~ = available on higher-tier or enterprise plans only. Always verify compliance claims with the vendor before purchase."
+      },
+      {
+        "type": "heading",
+        "text": "Understanding Real Cost: The Hidden Pricing Levers"
+      },
+      {
+        "type": "paragraph",
+        "text": "Headline prices cluster at $15–50/user/month. But real annual costs can diverge by 3–10× once you factor in three hidden levers that most buyers only discover after their first invoice."
+      },
+      {
+        "type": "subheading",
+        "text": "1. Envelope & Transaction Caps"
+      },
+      {
+        "type": "paragraph",
+        "text": "DocuSign Standard and Business Pro cap at 100 envelopes per user per year. Adobe Acrobat Sign team plans cap at 150 transactions per user per year. Overages run $3–8 per envelope, and they snowball fast in a busy sales org. PandaDoc, BoldSign, Signeasy, and Dropbox Sign all offer unlimited sends on paid plans."
+      },
+      {
+        "type": "subheading",
+        "text": "2. Tier-Gated Features"
+      },
+      {
+        "type": "paragraph",
+        "text": "HIPAA compliance, native Salesforce connectivity, bulk send, ID verification, and QES are routinely locked to higher-tier or enterprise plans. DocuSign's Salesforce connector sits on Enhanced/enterprise. Adobe's HIPAA compliance is enterprise-only. PandaDoc's CPQ is an Enterprise add-on."
+      },
+      {
+        "type": "subheading",
+        "text": "3. Metered Add-Ons"
+      },
+      {
+        "type": "paragraph",
+        "text": "SMS delivery (~$0.40/send), ID verification (~$2.50+/attempt), Knowledge-Based Authentication, and QES all bill per use at most vendors. A $25/seat plan can easily run $50+ effective per seat once your team uses these features at volume."
+      },
+      {
+        "type": "protip",
+        "text": "Pro tip: Always model your real cost using your actual monthly doc volume. A team sending 300 documents per month will blow past DocuSign's annual cap in 4 months. Get cap details and overage rates in writing before signing."
+      },
+      {
+        "type": "heading",
+        "text": "Vendor Profiles"
+      },
+      {
+        "type": "paragraph",
+        "text": "Strengths, trade-offs, and the buyer profile that fits each platform best."
+      },
+      {
+        "type": "subheading",
+        "text": "DocuSign, The category incumbent"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tags: Enterprise · Life Sciences · Most Integrations. Best for: Regulated industries, large enterprises, teams with international or QES needs. Broadest ecosystem but watch the envelope caps and SKU sprawl."
+      },
+      {
+        "type": "subheading",
+        "text": "Adobe Acrobat Sign, Natural fit for Adobe/M365 shops"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tags: Adobe Ecosystem · Microsoft 365. Best for: Finance and legal teams that live in PDFs. Most affordable team entry price but HIPAA and FERPA are enterprise-only."
+      },
+      {
+        "type": "subheading",
+        "text": "PandaDoc, Beyond signatures: proposals, CPQ, payments"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tags: Quote-to-Close · Unlimited. Best for: Sales and revenue-ops teams that want proposal, signing, and payments in one tool. Most expensive if you only need pure e-sign."
+      },
+      {
+        "type": "subheading",
+        "text": "Dropbox Sign, Formerly HelloSign · clean and fast"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tags: SMB-Friendly · Powers HubSpot Quotes. Best for: SMBs and HubSpot users. If you're on HubSpot Sales Hub Pro/Enterprise, you may already have basic e-sign included."
+      },
+      {
+        "type": "subheading",
+        "text": "OneSpan Sign, Compliance-first · for when regulators are in the room"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tags: Banking · Gov · Insurance. Best for: Heavily regulated industries where the signature is a compliance artifact in itself. Note: HubSpot integration requires middleware."
+      },
+      {
+        "type": "subheading",
+        "text": "GetAccept, E-sign + deal rooms + buyer engagement"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tags: Sales Enablement · Deal Rooms. Best for: Sales teams that want visibility into how prospects engage with documents before signing. Not optimized for healthcare/life sciences."
+      },
+      {
+        "type": "subheading",
+        "text": "BoldSign, Newer, value-oriented DocuSign alternative"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tags: Value Tier · Free Plan · AES-256. Best for: Cost-conscious teams that need enterprise-grade compliance basics (SOC 2, GDPR, HIPAA, PCI DSS) without enterprise pricing."
+      },
+      {
+        "type": "subheading",
+        "text": "Signeasy, Mid-market with a strong compliance footprint"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tags: Mid-Market · Mobile-First · 21 CFR. Best for: Mid-sized healthcare and regulated orgs that want a modern UX. Note: Salesforce/HubSpot integration is via API/Zapier, not native."
+      },
+      {
+        "type": "heading",
+        "text": "Choosing the Right Platform for Your Business"
+      },
+      {
+        "type": "paragraph",
+        "text": "Selecting the right e-signature tool depends on your compliance requirements, CRM stack, and document volume:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "For 21 CFR Part 11 / life sciences → DocuSign, OneSpan, or Signeasy",
+          "For native Salesforce two-way sync → DocuSign, PandaDoc, or Adobe Acrobat Sign",
+          "For HubSpot-native quote signing → Dropbox Sign (already powers HubSpot Sales Hub)",
+          "For full proposal + sign + pay workflow → PandaDoc",
+          "For budget-conscious teams needing compliance → BoldSign or Signeasy"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Ready to Untangle Your Document Workflow?"
+      },
+      {
+        "type": "paragraph",
+        "text": "E-signature is more than just going paperless, it's about closing deals faster, staying compliant, and connecting your signing workflow directly to your CRM data. The right platform is the one that matches your compliance obligations and plugs natively into the tools your team already uses."
+      },
+      {
+        "type": "paragraph",
+        "text": "Reach out to us to discuss how we can streamline your contract and signature workflow and drive business growth!"
+      }
+    ]
+  },
+  {
+    "id": "telephone-systems-salesforce-hubspot-integration",
+    "title": "Telephone Systems with Salesforce & HubSpot Integration: The Complete Guide",
+    "date": "May 2026",
+    "sortDate": "2026-05-01",
+    "author": "Harsimran Singh",
+    "authorBio": "Head of Project Management",
+    "authorImage": "/images/team/harry.png",
+    "authorInfo": "Writes about CRM, email marketing, and Salesforce automation. Helping businesses untangle their tech stack one blog at a time.",
+    "category": "Sales Technology",
+    "image": "/images/blogs/six.png",
+    "readTime": "14 min read",
+    "stats": [
+      {
+        "value": "20",
+        "label": "Platforms Compared"
+      },
+      {
+        "value": "6",
+        "label": "Market Tiers"
+      },
+      {
+        "value": "4",
+        "label": "Integration Types"
+      },
+      {
+        "value": "$15–$249",
+        "label": "Per User / Month Range"
+      }
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Choosing a business phone system used to mean picking a PBX vendor and calling it a day. Today the decision is far more consequential, your telephony platform is the front line of your customer experience, and how deeply it integrates with Salesforce or HubSpot determines whether your reps work smarter or spend their day copy-pasting call notes. This guide cuts through the noise across 20 platforms and 6 market tiers."
+      },
+      {
+        "type": "callout",
+        "text": "The key question isn't \"which platform is best\", it's \"which integration method fits your CRM dependency.\" Native CTI, AppExchange apps, Open CTI builds, and raw API integrations are not interchangeable. The right answer depends on your team size, IT capability, and how central calling is to your sales motion."
+      },
+      {
+        "type": "heading",
+        "text": "The Four Integration Methods, What They Actually Mean"
+      },
+      {
+        "type": "paragraph",
+        "text": "Before comparing vendors, you need to understand what \"Salesforce integration\" really means. There are four distinct methods, and the gap between them in terms of reliability, capability, and maintenance burden is enormous."
+      },
+      {
+        "type": "subheading",
+        "text": "Native / Deep CTI"
+      },
+      {
+        "type": "paragraph",
+        "text": "The platform has a dedicated, first-party Salesforce or HubSpot integration maintained by the vendor. Click-to-dial, automatic call logging, screen pops, and real-time CRM data sync work out of the box with no middleware. This is what you want if calling is central to your sales or service motion."
+      },
+      {
+        "type": "subheading",
+        "text": "AppExchange / Marketplace App"
+      },
+      {
+        "type": "paragraph",
+        "text": "The vendor publishes a managed package on Salesforce AppExchange or the HubSpot App Marketplace. Setup is low-code and supported, but you're dependent on the vendor keeping the package updated. Generally reliable for standard use cases."
+      },
+      {
+        "type": "subheading",
+        "text": "Open CTI / Custom Build"
+      },
+      {
+        "type": "paragraph",
+        "text": "Salesforce's Open CTI framework lets developers embed a softphone directly in the Salesforce UI. Powerful and flexible, but requires developer resources to build and maintain. Best suited for teams with a Salesforce admin or developer on staff."
+      },
+      {
+        "type": "subheading",
+        "text": "API / Custom Development"
+      },
+      {
+        "type": "paragraph",
+        "text": "The platform exposes APIs and you build the integration yourself. Maximum flexibility, maximum maintenance burden. Only appropriate for teams with dedicated engineering resources. Vendors like Twilio and Amazon Connect are designed for this model."
+      },
+      {
+        "type": "heading",
+        "text": "Platform Comparison at a Glance"
+      },
+      {
+        "type": "paragraph",
+        "text": "All 20 platforms across pricing, market tier, and CRM integration method. Native = first-party integration maintained by the vendor, not a third-party connector."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Platform",
+          "Tier",
+          "Pricing",
+          "Salesforce Integration",
+          "HubSpot Integration",
+          "Best For"
+        ],
+        "rows": [
+          [
+            "Aircall",
+            "SMB",
+            "$30+/user/mo",
+            "Native",
+            "Native",
+            "Fast-setup sales teams"
+          ],
+          [
+            "CloudTalk",
+            "SMB",
+            "$25+/user/mo",
+            "Native",
+            "Native",
+            "SMB inbound/outbound"
+          ],
+          [
+            "Dialpad",
+            "Mid-Market",
+            "$15+/user/mo",
+            "Native",
+            "Native",
+            "AI-first sales & support"
+          ],
+          [
+            "RingCentral",
+            "Mid-Market",
+            "$20+/user/mo",
+            "Native",
+            "Native",
+            "Scalable UCaaS"
+          ],
+          [
+            "8x8",
+            "Mid-Market",
+            "$24+/user/mo",
+            "Native",
+            "Native",
+            "Mid-market UCaaS"
+          ],
+          [
+            "Vonage",
+            "Mid-Market",
+            "$19+/user/mo",
+            "Native Deep",
+            "App",
+            "Salesforce-first teams"
+          ],
+          [
+            "Talkdesk",
+            "Enterprise",
+            "$75+/user/mo",
+            "Native Deep",
+            "App",
+            "AI-driven contact centres"
+          ],
+          [
+            "Five9",
+            "Enterprise",
+            "$149+/user/mo",
+            "Native Deep",
+            "App",
+            "Enterprise contact centres"
+          ],
+          [
+            "Genesys Cloud",
+            "Enterprise",
+            "$75+/user/mo",
+            "Native Deep",
+            "API",
+            "Full enterprise CCaaS"
+          ],
+          [
+            "NICE CXone",
+            "Enterprise",
+            "$100+/user/mo",
+            "Native Deep",
+            "API",
+            "Enterprise WFM + AI"
+          ],
+          [
+            "Amazon Connect",
+            "Developer",
+            "Usage-based",
+            "Custom Build",
+            "Custom Build",
+            "AWS-native custom builds"
+          ],
+          [
+            "Twilio Flex",
+            "Developer",
+            "$1/hr or $150/mo",
+            "Custom Build",
+            "Custom Build",
+            "Fully custom CCaaS"
+          ],
+          [
+            "Freshdesk",
+            "SMB",
+            "$15+/user/mo",
+            "App",
+            "Native",
+            "Support-focused teams"
+          ],
+          [
+            "Zendesk Talk",
+            "SMB",
+            "$19+/user/mo",
+            "API",
+            "App",
+            "CX teams on Zendesk"
+          ],
+          [
+            "Ringover",
+            "SMB",
+            "$21+/user/mo",
+            "Native",
+            "Native",
+            "European SMB teams"
+          ],
+          [
+            "GetAccept",
+            "Mid-Market",
+            "$25+/user/mo",
+            "Native",
+            "Native",
+            "Sales engagement"
+          ],
+          [
+            "Cisco (Webex)",
+            "Enterprise",
+            "$25+/user/mo",
+            "Native Deep",
+            "API",
+            "Existing Cisco infra"
+          ],
+          [
+            "Avaya",
+            "Enterprise",
+            "Custom",
+            "Custom Build",
+            "Custom Build",
+            "Legacy enterprise refresh"
+          ],
+          [
+            "Mitel",
+            "Enterprise",
+            "Custom",
+            "API",
+            "API",
+            "On-prem to cloud migration"
+          ],
+          [
+            "3CX",
+            "SMB / Legacy",
+            "Free–$249/yr",
+            "API",
+            "API",
+            "No-subscription calling"
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Platform Profiles by Market Tier"
+      },
+      {
+        "type": "paragraph",
+        "text": "The market breaks cleanly into three buying segments. Knowing your tier eliminates most of the noise before you even start demos."
+      },
+      {
+        "type": "subheading",
+        "text": "SMB (1–50 users)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Platforms: Aircall · CloudTalk · Dialpad · Ringover · Freshdesk · 3CX. Limited budget, quick setup, no dedicated IT team. Native integrations, setup in hours, minimal training required. Free trials available on most."
+      },
+      {
+        "type": "subheading",
+        "text": "Mid-Market (50–300 users)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Platforms: RingCentral · 8x8 · Dialpad · Talkdesk · Vonage. Growing teams needing reporting, automation, and scalable call flows. Balance of feature depth and setup simplicity. Mix of native and AppExchange integrations."
+      },
+      {
+        "type": "subheading",
+        "text": "Enterprise (300+ users)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Platforms: Genesys · NICE CXone · Five9 · Cisco · Avaya · Amazon Connect · Twilio. Multi-team, multi-region operations requiring AI, WFM, compliance, and deep CRM data flows. Demo-only pricing, longer procurement cycles, dedicated implementation."
+      },
+      {
+        "type": "heading",
+        "text": "Vendor Profiles"
+      },
+      {
+        "type": "paragraph",
+        "text": "Key strengths, trade-offs, and the buyer profile that fits each platform best."
+      },
+      {
+        "type": "subheading",
+        "text": "Aircall, The go-to for fast-growing sales teams"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tags: SMB · Native CRM · Free Trial. Best for: Teams that want native Salesforce and HubSpot integration without an IT department. Setup in hours. Strong call analytics and coaching tools."
+      },
+      {
+        "type": "subheading",
+        "text": "Dialpad, AI-first calling with built-in transcription"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tags: Mid-Market · AI Transcription · Native CRM. Best for: Teams that want real-time AI coaching, automatic call summaries, and sentiment analysis alongside native CRM sync. Lowest entry price in its tier."
+      },
+      {
+        "type": "subheading",
+        "text": "RingCentral, The UCaaS standard for growing companies"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tags: Mid-Market · UCaaS · Native CRM. Best for: Organisations that want phone, video, and messaging unified in one platform with reliable Salesforce and HubSpot connectors."
+      },
+      {
+        "type": "subheading",
+        "text": "Vonage, Built for Salesforce-first organisations"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tags: Mid-Market · Salesforce-Deep · Native CTI. Best for: Teams where Salesforce is the system of record and every call, disposition, and recording needs to flow back automatically without manual logging."
+      },
+      {
+        "type": "subheading",
+        "text": "Five9, Enterprise contact centre with deep Salesforce integration"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tags: Enterprise · Native Deep · AI. Best for: Large contact centres where intelligent routing, workforce management, and a certified Salesforce Service Cloud Voice integration are non-negotiable."
+      },
+      {
+        "type": "subheading",
+        "text": "Genesys Cloud, Full enterprise CCaaS, omnichannel and AI"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tags: Enterprise · Omnichannel · WFM. Best for: Enterprises needing a single platform for voice, digital, AI, and workforce management. Deep Salesforce integration; HubSpot requires custom API work."
+      },
+      {
+        "type": "subheading",
+        "text": "Talkdesk, AI-driven contact centre for the mid-to-enterprise market"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tags: Enterprise · AI-Driven · Native SF. Best for: Service and sales teams that want AI-powered routing, agent assist, and a deep Salesforce integration with pre-built flows. Demo-only pricing."
+      },
+      {
+        "type": "subheading",
+        "text": "Amazon Connect, Usage-based CCaaS for AWS-native teams"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tags: Developer · AWS · Usage-Based. Best for: Engineering-led organisations that want to build a fully custom contact centre on AWS infrastructure. Requires developer resources, not plug-and-play."
+      },
+      {
+        "type": "subheading",
+        "text": "Twilio Flex, The blank canvas for custom contact centres"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tags: Developer · Custom Build · API-First. Best for: Teams with dedicated engineering capacity that need to own every aspect of the contact centre experience. Not appropriate without developer resources."
+      },
+      {
+        "type": "subheading",
+        "text": "CloudTalk, Affordable outbound-focused dialer for SMBs"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tags: SMB · Power Dialer · Native CRM. Best for: Small outbound sales teams that need a power dialer, call recording, and native Salesforce/HubSpot sync without enterprise-level spend."
+      },
+      {
+        "type": "heading",
+        "text": "Choosing the Right Platform for Your Business"
+      },
+      {
+        "type": "paragraph",
+        "text": "Selecting the right telephony platform depends on your team size, CRM dependency, technical resources, and how central calling is to your customer experience:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "For SMB teams wanting quick setup with native CRM → Aircall, CloudTalk, or Dialpad",
+          "For AI-powered transcription and call coaching → Dialpad or Talkdesk",
+          "For scalable UCaaS (phone + video + messaging) → RingCentral or 8x8",
+          "For Salesforce-first deep CTI integration → Vonage, Five9, or Genesys",
+          "For enterprise contact centre with WFM and AI → Genesys, NICE CXone, or Five9",
+          "For AWS-native or fully custom builds → Amazon Connect or Twilio Flex",
+          "For existing Cisco or Avaya infrastructure → Stay on platform and extend with native CTI connectors",
+          "For no-subscription or minimal-budget calling → 3CX (note: API-only CRM integration)"
+        ]
+      },
+      {
+        "type": "callout",
+        "text": "Key insight: If your team has no dedicated IT or developer resources, avoid Twilio, Amazon Connect, and Avaya, they require ongoing engineering to build and maintain CRM integrations. Stick to platforms with native or AppExchange connectors."
+      },
+      {
+        "type": "heading",
+        "text": "Ready to Untangle Your Phone System?"
+      },
+      {
+        "type": "paragraph",
+        "text": "A telephone system is no longer just infrastructure, it's a sales and service intelligence layer. The right platform logs every call, triggers CRM workflows, surfaces customer context before the first ring, and feeds coaching data back to your managers. Getting that right requires matching the platform to your team's size, technical capability, and CRM stack."
+      },
+      {
+        "type": "paragraph",
+        "text": "Reach out to us to discuss how we can help you evaluate, implement, and integrate the right telephony platform for your Salesforce or HubSpot environment."
+      }
+    ]
+  }
+]

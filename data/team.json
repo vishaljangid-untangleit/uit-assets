@@ -1,0 +1,209 @@
+{
+  "leadership": [
+    {
+      "desc": "Captain of the ship, decoder of chaos, turns tangled messes into billion-dollar ideas!",
+      "funImage": null,
+      "image": "/images/team/ac8868f17b4b54ee97bc186e454860b049c70b5d-1024x1024.png",
+      "name": "Edson Hidalgo",
+      "role": "CEO & Co-Founder"
+    },
+    {
+      "desc": "Writes code, speaks logic, dreams in algorithms-his tech sorcery keeps Untangle-IT spellbinding.",
+      "funImage": null,
+      "image": "/images/team/8c0bf2baf46b43261fda93a95169363d00702d32-500x500.png",
+      "name": "Aryan Chopra",
+      "role": "CTO & Co-Founder"
+    },
+    {
+      "desc": "Turns 'ASAP' into 'Already Done', dodges chaos like ninja and keeps projects running smoother.",
+      "funImage": "/images/team/53486d15252435c122992eeb4e2c5b32dd59d226-3024x4032.jpg",
+      "image": "/images/team/5e63d3f9734ab8167518b0ee70ba52ecb013f5cb-394x387.png",
+      "name": "Harsimran Singh",
+      "role": "Head of Project Management"
+    },
+    {
+      "desc": "Architect of innovation, turns ideas into seamless systems and leads the tech team to engineering greatness!",
+      "funImage": null,
+      "image": "/images/team/3f715f008462ee882c9dfedd2f2b44c2ba8426cb-512x448.png",
+      "name": "Mahipal Jyani",
+      "role": "Head of Engineering"
+    }
+  ],
+  "members": [
+    {
+      "desc": "Keeps the tech ship steady, navigates challenges with cool logic and quick fixes.",
+      "funImage": null,
+      "image": "/images/team/de3f7e901809149ea6661acce1b045bd426f09b5-800x671.png",
+      "name": "Rohan Thakur",
+      "role": "Technical Lead"
+    },
+    {
+      "desc": "Solves complex puzzles before breakfast, always a step ahead in the code race.",
+      "funImage": null,
+      "image": "/images/team/bcafa43d53a454b82a287a6e1b196b971293d5ae-1792x2181.png",
+      "name": "Mohit Kumawat",
+      "role": "Senior Software Developer"
+    },
+    {
+      "desc": "A guiding force in team, sharing knowledge and helping everyone reach new technical heights.",
+      "funImage": null,
+      "image": "/images/team/df2eee7c1501990414a7a3f88f456428b941d248-573x542.png",
+      "name": "Rishabh Chopra",
+      "role": "Senior Software Developer"
+    },
+    {
+      "desc": "Turns coffee and curiosity into pixel-perfect products, never met a bug she couldn't squash.",
+      "funImage": "/images/team/74b37d973190aa02602dc0998d3036a2a14e718f-1080x1920.jpg",
+      "image": "/images/team/8e3b7b6840b8ac211bd1ae317cc678fa46dca929-928x1302.png",
+      "name": "Antima Mangal",
+      "role": "Software Developer"
+    },
+    {
+      "desc": "Transforms ideas into awesome features, loves a good challenge (and a clever shortcut).",
+      "funImage": "/images/team/736671140902ee83d59b018a36359602d6dc2931-1200x1600.jpg",
+      "image": "/images/team/1755775585dc7d4df7e12e2905bb425b91e5ae23-1893x2230.png",
+      "name": "Lakshya Gupta",
+      "role": "Software Developer"
+    },
+    {
+      "desc": "Connects the dots between data and decisions, translates business speak to tech magic.",
+      "funImage": null,
+      "image": "/images/team/13f8e664845b3998d2af5fdda484dbf5ea51b947-369x482.png",
+      "name": "Khushal Gupta",
+      "role": "Business Analyst"
+    },
+    {
+      "desc": "Finds order in chaos, her insights keep projects (and people) on track.",
+      "funImage": "/images/team/890fa1571f454289fe8d2c8f878bb4d40289653d-1200x1600.jpg",
+      "image": "/images/team/0652ca5fb88eef66be4c587ad31f928663f35bcc-891x1173.png",
+      "name": "Shreya Gupta",
+      "role": "Business Analyst"
+    },
+    {
+      "desc": "Code whisperer, turns requirements into realities, one sprint at a time.",
+      "funImage": "/images/team/2ba35c8b5bf819f824c23c6db62a266878111784-4000x3000.jpg",
+      "image": "/images/team/eae6475fc4953a4ddeb68cfe64871c4d0ae4a605-1472x1204.png",
+      "name": "Sumit Kasara",
+      "role": "Software Developer"
+    },
+    {
+      "desc": "Solves the unsolvable and keeps the codebase smiling, thinks outside the curly braces.",
+      "funImage": null,
+      "image": "/images/team/78ebbe08f1928a795067370cf3999ac7deec7a9c-998x1306.png",
+      "name": "Siddharth Chhangani",
+      "role": "Software Developer"
+    },
+    {
+      "desc": "Reads between the lines, her analysis powers up project success stories.",
+      "funImage": null,
+      "image": "/images/team/226677ea6b7ddfdf31ffdd807118f5f8ae877adf-636x654.png",
+      "name": "Vartika Karora",
+      "role": "Business Analyst"
+    },
+    {
+      "desc": "Mixes creativity and code, always ready with a fresh idea and a clean commit.",
+      "funImage": null,
+      "image": "/images/team/80f4ea44befba4b4d3709448d2598ff28315f93f-689x603.png",
+      "name": "Chhavi Joshi",
+      "role": "Software Developer"
+    },
+    {
+      "desc": "Quietly crafts robust solutions, her code never breaks a sweat, even on Mondays.",
+      "funImage": "/images/team/4183e9b8411227d14aff797170bbb9a40baba246-902x1600.jpg",
+      "image": "/images/team/4434078d76014349396634d244ea59a7b9abb843-1024x1536.png",
+      "name": "Renu Swami",
+      "role": "Software Developer"
+    },
+    {
+      "desc": "The bridge between 'why' and 'how', crafting clarity from chaos to guide every sprint.",
+      "funImage": "/images/team/57be19bddcac52daebe8f6480cf934561169f6a7-3456x5184.jpg",
+      "image": "/images/team/b392906a07bef593c7dc7551d700a42dd7f72848-842x1023.png",
+      "name": "Ritu Khatri",
+      "role": "Business Analyst"
+    },
+    {
+      "desc": "Makes decisions today that stand strong tomorrow.",
+      "funImage": null,
+      "image": "/images/team/8bf53a774a39a008e4400b899596732200223da5-305x313.png",
+      "name": "Gaurav Agarwal",
+      "role": "Software Developer"
+    },
+    {
+      "desc": "Balances speed and structure, ensuring every release adds real value.",
+      "funImage": "/images/team/637b7ccf62b144dc3269b3c748a6946340d47465-1200x1600.jpg",
+      "image": "/images/team/12bbfb6078d3080ac31b085d314df7abba9798bf-800x807.png",
+      "name": "Sakanksha Dadhich",
+      "role": "Software Developer"
+    },
+    {
+      "desc": "Approaches every problem with precision and intent.",
+      "funImage": null,
+      "image": "/images/team/d7f859c2fed7a78e5c896bfdde0ee67ba63dc046-912x945.png",
+      "name": "Praveen Sharma",
+      "role": "Software Developer"
+    },
+    {
+      "desc": "Brings order to complexity, enabling confident execution.",
+      "funImage": null,
+      "image": "/images/team/03807e427dffc60ff3079137fc915c99147ac0d8-725x1024.png",
+      "name": "Raviraj Singh Tanwar",
+      "role": "Software Developer"
+    },
+    {
+      "desc": "Dreams in algorithms, builds with logic, and delivers impact through code.",
+      "funImage": null,
+      "image": "/images/team/e3efafc14170b340a52563683a85c1da74e81cd3-719x781.png",
+      "name": "Riyank A Nair",
+      "role": "Software Developer"
+    },
+    {
+      "desc": "Focuses on what matters, filters out what doesn’t.",
+      "funImage": "/images/team/e831c3dfdfc62b65cd7fe9a9b33de7704e8544e4-978x888.jpg",
+      "image": "/images/team/d560058f46fb3b5511df8bf237a383320d859719-1863x1750.png",
+      "name": "Ajay Singh Shekhawat",
+      "role": "Business Analyst Intern"
+    },
+    {
+      "desc": "Turns discussions into decisions and requirements into direction.",
+      "funImage": "/images/team/a7b178ede92da1f7f3f2fa296c0ffa80b3342268-960x1280.jpg",
+      "image": "/images/team/be76ae28898348fa5362604df5772588daa14628-768x768.png",
+      "name": "Ruchit Gupta",
+      "role": "Business Analyst"
+    },
+    {
+      "desc": "Balances aesthetics with functionality, delivering with precision.",
+      "funImage": null,
+      "image": "/images/team/067aff1ca537e874a7fe341a726fe1b294925b70-684x1030.png",
+      "name": "Harsha Khatri",
+      "role": "Web Development Intern"
+    },
+    {
+      "desc": "Writes code with curiosity, breaks things fearlessly, and learns faster with every commit.",
+      "funImage": null,
+      "image": "/images/team/0f81d718165ec3b008edd50ae93c415d176d6c39-619x1033.png",
+      "name": "Princi Sharma",
+      "role": "Software Engineer"
+    },
+    {
+      "desc": "Turns complex challenges into reliable systems, leading development with experience, precision, and innovation.",
+      "funImage": null,
+      "image": "/images/team/77a442e3107fa88db82659a7473a603cfb5d5200-251x356.png",
+      "name": "Vishal Jangid",
+      "role": "Software Engineer"
+    },
+    {
+      "desc": "Curious, driven, and always experimenting, transforming ideas into code while growing with every project.",
+      "funImage": null,
+      "image": "/images/team/09f94af58a6a0a5ec26a817bbc2b990fea3efc8e-733x1019.png",
+      "name": "Goutam Tiwari",
+      "role": "Software Developer Intern"
+    },
+    {
+      "desc": "Exploring flows, automations, and Apex magic while turning CRM ideas into real business impact.",
+      "funImage": null,
+      "image": "/images/team/9fd3f2e483aad25241d4922b9b3a437e21b31767-512x512.png",
+      "name": "Gaurav Mishra",
+      "role": "Salesforce Developer Intern"
+    }
+  ]
+}

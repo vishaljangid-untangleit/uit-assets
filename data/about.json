@@ -1,0 +1,40 @@
+{
+  "mission": "To empower businesses with Salesforce solutions that streamline operations and drive growth. We're dedicated to providing innovative solutions, expert support, and exceptional value.",
+  "stats": [
+    {
+      "statsNumber": 120,
+      "statsTitle": "Successful Projects"
+    },
+    {
+      "statsNumber": 50,
+      "statsTitle": "Happy Customers"
+    },
+    {
+      "statsNumber": 35,
+      "statsTitle": "Salesforce Experts"
+    },
+    {
+      "statsNumber": 50,
+      "statsTitle": "Salesforce Certifications"
+    }
+  ],
+  "values": [
+    {
+      "valuesText": "We leverage cutting-edge technologies to deliver future-proof solutions that adapt to your evolving business needs.",
+      "valuesTitle": "Driven by Innovation"
+    },
+    {
+      "valuesText": "We believe in transparency, honesty, and ethical practices in all our engagements, building trust and lasting relationships with our clients.",
+      "valuesTitle": "Built on Integrity"
+    },
+    {
+      "valuesText": "Your success is our priority. We tailor solutions to your unique needs, ensuring your Salesforce implementation delivers maximum value.",
+      "valuesTitle": "Dedicated to Client Success"
+    },
+    {
+      "valuesText": "We're dedicated to delivering high-quality services and exceeding expectations, providing you with the best possible experience and outcomes.",
+      "valuesTitle": "Committed to Excellence"
+    }
+  ],
+  "vision": "To be the most trusted Salesforce consulting partner, recognized for delivering innovative, secure, and scalable solutions that drive transformative CRM experiences for every client."
+}

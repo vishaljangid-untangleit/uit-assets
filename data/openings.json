@@ -1,0 +1,306 @@
+[
+  {
+    "id": "software-developer-intern",
+    "title": "Software Developer Intern",
+    "location": "Jaipur",
+    "employmentType": "Full-time",
+    "experience": "Entry level",
+    "industry": "Information Technology",
+    "overview": "",
+    "responsibilities": [],
+    "technicalSkills": {},
+    "niceToHave": [],
+    "qualifications": [],
+    "roleImpact": "",
+    "growthOpportunities": [],
+    "softSkills": [],
+    "certifications": [],
+    "training": "",
+    "growth": [],
+    "hasDescription": false
+  },
+  {
+    "id": "marketing-specialist",
+    "title": "Marketing Specialist",
+    "location": "Jaipur",
+    "employmentType": "Full-time",
+    "experience": "Entry level",
+    "industry": "Information Technology",
+    "overview": "",
+    "responsibilities": [],
+    "technicalSkills": {},
+    "niceToHave": [],
+    "qualifications": [],
+    "roleImpact": "",
+    "growthOpportunities": [],
+    "softSkills": [],
+    "certifications": [],
+    "training": "",
+    "growth": [],
+    "hasDescription": false
+  },
+  {
+    "id": "senior-salesforce-developer",
+    "title": "Senior Salesforce Developer",
+    "location": "Jaipur",
+    "employmentType": "Full-time",
+    "experience": "2+ Years",
+    "industry": "Information Technology",
+    "overview": "As a Senior Salesforce Developer, you will play a critical role in designing, developing, and implementing advanced Salesforce solutions to support our business processes. This role involves leveraging your 2+ years of experience to collaborate with cross-functional teams, deliver high-quality solutions, and enhance system efficiency. You will drive innovation by optimizing Salesforce features and ensuring alignment with organizational objectives. We are committed to fostering a growth-oriented environment where your expertise will be valued, and opportunities for further professional development will be available.",
+    "responsibilities": [
+      "Design and implement custom Salesforce solutions using Apex, Lightning Web Components (LWC), and other development tools to meet business requirements.",
+      "Develop and maintain integrations between Salesforce and external systems using REST/SOAP APIs, middleware, or other integration tools.",
+      "Identify system bottlenecks and implement solutions to improve Salesforce application performance and scalability.",
+      "Collaborate with stakeholders to gather business requirements and translate them into technical solutions.",
+      "Perform unit testing, troubleshoot issues, and ensure solutions meet established standards.",
+      "Provide ongoing support for Salesforce applications, resolve user issues, and implement system enhancements.",
+      "Maintain comprehensive documentation of technical designs, configurations, and processes.",
+      "Keep up-to-date with Salesforce platform updates, releases, and best practices to continuously improve solutions.",
+      "Support junior developers by sharing knowledge, reviewing code, and fostering a culture of continuous improvement."
+    ],
+    "technicalSkills": {
+      "general": [
+        "Proficiency in Apex, SOQL, and SOSL.",
+        "Experience with Lightning Web Components (LWC) and Salesforce Flows.",
+        "Strong understanding of Salesforce Security Models (roles, profiles, sharing rules).",
+        "Familiarity with integration tools (e.g., MuleSoft) and APIs (REST/SOAP).",
+        "Knowledge of CI/CD processes and tools like Git, Jenkins, or Copado.",
+        "Basic understanding of HTML, CSS, and JavaScript frameworks."
+      ]
+    },
+    "niceToHave": [],
+    "qualifications": [
+      "Bachelor's degree in Computer Science, Information Technology, or a related field.",
+      "2+ years of hands-on experience in Salesforce development and administration."
+    ],
+    "roleImpact": "As a Mid-Level Salesforce Developer, you will directly impact the organization's success by designing and delivering robust Salesforce solutions that streamline business operations and drive efficiency. You will be a key contributor to technology-driven initiatives, ensuring Salesforce applications align with business goals and provide exceptional user experiences.",
+    "growthOpportunities": [],
+    "softSkills": [
+      "Strong problem-solving and analytical skills.",
+      "Excellent verbal and written communication skills.",
+      "Ability to work independently and collaboratively in a team-oriented environment.",
+      "Proactive mindset with an eagerness to learn and adapt to new challenges."
+    ],
+    "certifications": [
+      "Salesforce Platform Developer I (preferred).",
+      "Salesforce Platform Developer II (preferred).",
+      "Additional Salesforce certifications (e.g., Sales Cloud Consultant, Service Cloud Consultant) are a plus."
+    ],
+    "training": "We value professional growth and provide opportunities for continuous learning. You will have access to advanced training programs, certifications, and mentorship to deepen your expertise in Salesforce development and related technologies. By joining our team, you will be empowered to excel and advance in your career.\n\n",
+    "growth": [],
+    "hasDescription": true
+  },
+  {
+    "id": "web-developer",
+    "title": "Web Developer",
+    "location": "Jaipur",
+    "employmentType": "Full-time",
+    "experience": "Entry level",
+    "industry": "Information Technology",
+    "overview": "",
+    "responsibilities": [],
+    "technicalSkills": {},
+    "niceToHave": [],
+    "qualifications": [],
+    "roleImpact": "",
+    "growthOpportunities": [],
+    "softSkills": [],
+    "certifications": [],
+    "training": "",
+    "growth": [],
+    "hasDescription": false
+  },
+  {
+    "id": "salesforce-business-analyst",
+    "title": "Salesforce Business Analyst",
+    "location": "Jaipur",
+    "employmentType": "Full-time",
+    "experience": "1-3 Years",
+    "industry": "Information Technology",
+    "overview": "As a Salesforce Business Analyst, you will play a vital role in bridging the gap between business needs and technical solutions within Salesforce. You will work closely with stakeholders to gather requirements, document processes, and ensure the successful implementation of Salesforce solutions. Success in this position involves collaborating with various departments to enhance user experience, optimize system efficiency, and support organizational goals.",
+    "responsibilities": [
+      "Conduct discovery sessions and whiteboarding sessions with stakeholders to gather detailed business requirements and translate them into technical specifications for the development team.",
+      "Create detailed process and journey maps to visualize and optimize business workflows.",
+      "Maintain comprehensive documentation of business processes, user requirements, and technical specifications.",
+      "Provide ongoing support and maintenance of Salesforce applications to ensure optimal performance and user satisfaction.",
+      "Work closely with developers, business analysts, and stakeholders to ensure seamless integration of Salesforce solutions with other systems.",
+      "Prepare user manuals and conduct training sessions to ensure successful adoption of new Salesforce functionalities.",
+      "Develop and maintain reports, dashboards, and KPIs to monitor the performance of Salesforce applications."
+    ],
+    "technicalSkills": {
+      "general": [
+        "Proficiency in Salesforce.",
+        "Project Management skills, including experience with Agile methodologies such as Scrum and Kanban.",
+        "Strong skills in Requirement Gathering, Process Mapping, and GAP Analysis.",
+        "Excellent verbal and written communication skills.",
+        "Ability to work collaboratively in a team environment.",
+        "Knowledge of project management tools like JIRA, Trello, Asana, and Zoho."
+      ]
+    },
+    "niceToHave": [],
+    "qualifications": [
+      "Bachelor's degree in Business Administration, Information Technology, or a related field.",
+      "1-3 years of experience in Salesforce business analysis or a related field."
+    ],
+    "roleImpact": "As a Salesforce Business Analyst, you will contribute to the company's technological advancement by ensuring that Salesforce solutions align with business objectives and enhance overall productivity. Your role is crucial in driving the organization towards achieving its strategic goals through efficient and user-friendly Salesforce applications.\n\n",
+    "growthOpportunities": [],
+    "softSkills": [],
+    "certifications": [],
+    "training": "We are committed to your professional growth and development. On-the-job training related to Salesforce will be provided, ensuring you gain the necessary skills and knowledge to excel in your role. You will have access to resources and support from experienced professionals to help you build a strong foundation in Salesforce business analysis.\n\n",
+    "growth": [],
+    "hasDescription": true
+  },
+  {
+    "id": "react-developer",
+    "title": "React Developer",
+    "location": "Jaipur",
+    "employmentType": "Full-time",
+    "experience": "Entry level",
+    "industry": "Information Technology",
+    "overview": "",
+    "responsibilities": [],
+    "technicalSkills": {},
+    "niceToHave": [],
+    "qualifications": [],
+    "roleImpact": "",
+    "growthOpportunities": [],
+    "softSkills": [],
+    "certifications": [],
+    "training": "",
+    "growth": [],
+    "hasDescription": false
+  },
+  {
+    "id": "fullstack-developer",
+    "title": "Fullstack Developer",
+    "location": "Jaipur",
+    "employmentType": "Full-time",
+    "experience": "2+ Years",
+    "industry": "Information Technology",
+    "overview": "We are looking for a motivated and skilled Full Stack Developer to join our dynamic engineering team. The ideal candidate should have hands-on experience in both frontend (React.js) and backend (Node.js or similar frameworks), along with a solid understanding of databases, APIs, and scalable application architecture. You will be responsible for developing end-to-end web applications, ensuring seamless integration between frontend and backend systems, and delivering high-performance, scalable solutions.",
+    "responsibilities": [
+      "Design, develop, and maintain full-stack web applications using React.js and Node.js (or similar backend frameworks).",
+      "Build reusable, modular, and scalable frontend components.",
+      "Develop secure and optimized RESTful APIs.",
+      "Integrate frontend interfaces with backend services and databases.",
+      "Design and manage database schemas (SQL or NoSQL).",
+      "Implement authentication and authorization mechanisms (JWT, role-based access).",
+      "Optimize applications for performance, scalability, and security.",
+      "Troubleshoot bugs across the stack and resolve performance bottlenecks.",
+      "Participate in code reviews and maintain clean, maintainable code.",
+      "Collaborate with designers, product managers, and QA teams.",
+      "Write technical documentation for APIs and components."
+    ],
+    "technicalSkills": {
+      "backend": [
+        "Node.js with Express.js (or similar framework).",
+        "RESTful API development.",
+        "Middleware implementation.",
+        "Authentication (JWT, OAuth basics).",
+        "Basic understanding of WebSockets (optional)."
+      ],
+      "database": [
+        "Experience with MongoDB / MySQL / PostgreSQL.",
+        "Database design & indexing.",
+        "Writing optimized queries."
+      ],
+      "devOpsAndTools": [
+        "Git version control.",
+        "npm / yarn.",
+        "Basic understanding of CI/CD.",
+        "Familiarity with Docker (preferred).",
+        "Cloud basics (AWS / Azure / GCP - optional)."
+      ],
+      "frontend": [
+        "Strong proficiency in React.js and JavaScript (ES6+).",
+        "HTML5, CSS3, responsive design.",
+        "State management (Redux / Context API).",
+        "API integration and JSON handling.",
+        "Understanding of component lifecycle and hooks."
+      ]
+    },
+    "niceToHave": [
+      "Experience deploying applications to cloud environments.",
+      "Knowledge of microservices architecture.",
+      "Basic understanding of caching (Redis).",
+      "Experience with testing frameworks (Jest, Mocha, Cypress)."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Computer Science, IT, Engineering, or related field.",
+      "1-3 years of hands-on experience in full stack development."
+    ],
+    "roleImpact": "As a Full Stack Developer, you will play a key role in building scalable, secure, and high-performing applications that directly impact business efficiency and user experience. You will contribute to both frontend innovation and backend robustness, ensuring end-to-end product excellence.\n\n",
+    "growthOpportunities": [],
+    "softSkills": [
+      "Strong analytical and problem-solving abilities.",
+      "Good communication skills.",
+      "Ability to work independently and in team environments.",
+      "Proactive mindset and eagerness to learn."
+    ],
+    "certifications": [],
+    "training": "",
+    "growth": [
+      "Advanced full-stack architecture learning.",
+      "Code review mentorship.",
+      "Cloud and DevOps exposure.",
+      "Performance optimization practices.",
+      "Scaling applications in real-world production environments."
+    ],
+    "hasDescription": true
+  },
+  {
+    "id": "hr-executive",
+    "title": "HR Executive",
+    "location": "Jaipur",
+    "employmentType": "Full-time",
+    "experience": "Entry level",
+    "industry": "Information Technology",
+    "overview": "",
+    "responsibilities": [],
+    "technicalSkills": {},
+    "niceToHave": [],
+    "qualifications": [],
+    "roleImpact": "",
+    "growthOpportunities": [],
+    "softSkills": [],
+    "certifications": [],
+    "training": "",
+    "growth": [],
+    "hasDescription": false
+  },
+  {
+    "id": "salesforce-developer",
+    "title": "Salesforce Developer",
+    "location": "Jaipur",
+    "employmentType": "Full-time",
+    "experience": "0-1 Year",
+    "industry": "Information Technology",
+    "overview": "As an Entry-Level Salesforce Developer, you will play a key role in the design, development, and implementation of Salesforce applications. Success in this position involves collaborating with senior developers to create solutions that enhance user experience and maximize system efficiency. You will work closely with various departments to ensure that Salesforce solutions meet business needs and support organizational goals. Comprehensive on-the-job training related to Salesforce will be provided to ensure your success and growth in the role.",
+    "responsibilities": [
+      "Work with senior developers to code, test, and implement custom Salesforce solutions that meet business requirements.",
+      "Collaborate with end-users to gather requirements and translate them into technical specifications.",
+      "Provide ongoing support and maintenance of Salesforce applications to ensure optimal performance.",
+      "Maintain detailed documentation of code, configurations, and processes.",
+      "Work closely with other developers, business analysts, and stakeholders to ensure seamless integration of Salesforce applications with other systems.",
+      "Keep abreast of the latest Salesforce features and best practices to continuously improve development processes."
+    ],
+    "technicalSkills": {},
+    "niceToHave": [],
+    "qualifications": [
+      "Bachelor's degree in Computer Science, Information Technology, or a related field.",
+      "Basic coding skills.",
+      "Knowledge of Java and JavaScript.",
+      "Excellent verbal and written communication skills.",
+      "Strong problem-solving and analytical skills.",
+      "Ability to work collaboratively in a team environment.",
+      "Eagerness to learn and adapt to new technologies."
+    ],
+    "roleImpact": "As an Entry-Level Salesforce Developer, you will contribute to the company's technological advancement by developing and maintaining Salesforce solutions that support various business functions. Your role is crucial in ensuring that our Salesforce applications are user-friendly, efficient, and aligned with business objectives. By working closely with other teams, you will help drive the organization towards achieving its strategic goals and enhancing overall productivity.\n\n",
+    "growthOpportunities": [],
+    "softSkills": [],
+    "certifications": [],
+    "training": "We are committed to your professional growth and development. On-the-job training related to Salesforce will be provided, ensuring you gain the necessary skills and knowledge to excel in your role. You will have access to resources and support from experienced professionals to help you build a strong foundation in Salesforce development.",
+    "growth": [],
+    "hasDescription": true
+  }
+]
