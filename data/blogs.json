@@ -1340,5 +1340,247 @@
         "text": "Reach out to us to discuss how we can help you evaluate, implement, and integrate the right telephony platform for your Salesforce or HubSpot environment."
       }
     ]
+  },
+  {
+    "id": "salesforce-agentic-era-what-it-means-for-your-business",
+    "title": "Salesforce's Agentic Era Is Here: What It Means for Your Business",
+    "date": "May 2026",
+    "sortDate": "2026-05-28",
+    "author": "Harsimran Singh",
+    "authorBio": "Head of Project Management",
+    "authorImage": "/images/team/harry.png",
+    "authorInfo": "Writes about CRM, email marketing, and Salesforce automation. Helping businesses untangle their tech stack one blog at a time.",
+    "category": "Salesforce",
+    "image": "/images/blogs/salesforce-agentic-era.png",
+    "readTime": "5 min read",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "The Summer '26 release isn't just another update. It's a structural shift from AI-assisted CRM to AI-led operations, and businesses that adapt early will have a serious edge."
+      },
+      {
+        "type": "paragraph",
+        "text": "Salesforce has been steadily layering AI into its platform, but with the Spring and Summer '26 releases, the shift has become structural. The platform is now built around the idea of the Agentic Enterprise: where AI agents handle complex workflows end-to-end, not just surface recommendations for humans to act on. For businesses running Salesforce, this isn't a future vision anymore. The tools are live, the features are shipping, and the gap between early adopters and the rest is widening quickly."
+      },
+      {
+        "type": "heading",
+        "text": "Four Updates That Actually Change How Teams Work"
+      },
+      {
+        "type": "paragraph",
+        "text": "The Spring and Summer '26 releases together represent the most significant evolution in Salesforce's platform architecture in years. Here are the four changes that matter most for business operations."
+      },
+      {
+        "type": "subheading",
+        "text": "1. Multi-Agent Orchestration"
+      },
+      {
+        "type": "paragraph",
+        "text": "Agentforce agents now work as a coordinated team, routing, executing, and closing end-to-end workflows without manual hand-offs between departments or tools. This is the headline feature of Summer '26, and it fundamentally changes what \"automation\" means inside Salesforce. Instead of one agent doing one task, multiple agents now collaborate across a full business process."
+      },
+      {
+        "type": "subheading",
+        "text": "2. Slack-First Sales"
+      },
+      {
+        "type": "paragraph",
+        "text": "Conversations in Slack now trigger real CRM actions, building prospect lists, updating deal stages, and sending follow-ups without reps ever leaving the chat interface. Summer '26's Slack-First Sales feature turns every conversation into a potential pipeline action, removing the friction of context-switching between tools."
+      },
+      {
+        "type": "subheading",
+        "text": "3. AI-Powered Sales Workspace"
+      },
+      {
+        "type": "paragraph",
+        "text": "Introduced in Spring '26, this unified workspace lets Agentforce research accounts, build prioritised prospect lists from web and CRM data, and surface them in both Salesforce and Slack automatically. Sales teams no longer need to manually compile account intelligence before outreach."
+      },
+      {
+        "type": "subheading",
+        "text": "4. Real-Time Offer Management"
+      },
+      {
+        "type": "paragraph",
+        "text": "Marketing teams can now deliver personalised, channel-optimised offers triggered by live customer behaviour, removing slow campaign cycles and enabling true personalisation at scale. This is a direct answer to one of the most consistent complaints we hear from marketing clients: campaigns that can't keep up with how customers actually move."
+      },
+      {
+        "type": "heading",
+        "text": "What This Actually Means for Your Implementation"
+      },
+      {
+        "type": "paragraph",
+        "text": "These features are genuinely powerful, but they are not plug-and-play. Multi-Agent Orchestration, for example, requires clean data architecture and well-defined process ownership before agents can operate reliably. Organisations without those foundations in place will spend their time fixing data quality issues rather than activating new capabilities."
+      },
+      {
+        "type": "paragraph",
+        "text": "We've been working with clients across this transition, and the pattern is consistent: teams that invested in Flow architecture and data hygiene 12–18 months ago are activating Agentforce features in days. Teams that didn't are spending that time on remediation first."
+      },
+      {
+        "type": "paragraph",
+        "text": "Before enabling Agentforce at scale, ask your team three questions:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Is your lead and account data clean and consistently structured?",
+          "Is your existing Flow architecture documented and maintained?",
+          "Does your team have clear ownership of AI-agent outputs and exceptions?"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "The technology is ready. The question is whether your org structure is."
+      },
+      {
+        "type": "heading",
+        "text": "Choosing the Right Approach for Your Business"
+      },
+      {
+        "type": "paragraph",
+        "text": "How you should respond to these releases depends on where your Salesforce environment stands today:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "If you're on a mature, well-maintained org → You're likely ready to begin piloting Multi-Agent Orchestration and the AI-Powered Sales Workspace now.",
+          "If your data quality is inconsistent → Start with a data audit and Flow review before activating Agentforce features at scale.",
+          "If your team is still on manual processes → The Slack-First Sales and Real-Time Offer Management features offer a faster on-ramp with lower implementation complexity.",
+          "If you're evaluating Salesforce for the first time → This is the right moment; the platform's agentic capabilities are now mature enough to deliver immediate ROI."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Ready to Untangle Your Salesforce Setup?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Salesforce's direction is clear. The platform is being rebuilt around AI agents as first-class participants in business operations, not assistants, but executors. The companies best positioned for this shift are the ones building clean data foundations and clear process ownership today, not after the fact."
+      },
+      {
+        "type": "paragraph",
+        "text": "Reach out to us to discuss how we can help you assess your readiness, activate the right Summer '26 features for your team, and build a Salesforce environment that grows with you."
+      }
+    ]
+  },
+  {
+    "id": "agentforce-goes-rogue-what-it-means",
+    "title": "What Happens When Your Agentforce Agent Goes Rogue And Nobody's Watching?",
+    "date": "May 2026",
+    "sortDate": "2026-05-29",
+    "author": "Harsimran Singh",
+    "authorBio": "Head of Project Management",
+    "authorImage": "/images/team/harry.png",
+    "authorInfo": "Writes about CRM, email marketing, and Salesforce automation. Helping businesses untangle their tech stack one blog at a time.",
+    "category": "Salesforce",
+    "image": "/images/blogs/agentforce-goes-rogue.png",
+    "readTime": "5 min read",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Agentforce works best when it has boundaries. The problem is that most businesses set them after something goes wrong, not before."
+      },
+      {
+        "type": "paragraph",
+        "text": "Agentforce is live in your org. It's handling queries, updating records, and responding to customers around the clock, with no human in the loop. Sounds like the dream, right?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Until it isn't. An agent sharing data it never should have accessed. Giving completely wrong customer information confidently, without a single error thrown. No alert. No log. Just a problem you find out about from a frustrated customer screenshot."
+      },
+      {
+        "type": "paragraph",
+        "text": "This is the conversation most businesses skip when deploying Agentforce. Everyone asks what the agent can do. Almost nobody defines what it shouldn't be."
+      },
+      {
+        "type": "heading",
+        "text": "The Risk Is Bigger Than You Think"
+      },
+      {
+        "type": "paragraph",
+        "text": "Here's what makes this scarier than a regular software bug. A traditional system throws an error, you find it, fix it, and it's done. AI agents don't work like that. They return plausible, well-formed responses that are completely wrong, with no error thrown, no alert fired, nothing in the logs to flag it."
+      },
+      {
+        "type": "paragraph",
+        "text": "Making it worse? Bad data is just as dangerous as bad guardrails. Duplicate records, stale contacts, outdated knowledge articles, the AI can't fix any of that. It just confidently gives wrong answers based on whatever it finds. Most orgs have messier data than they realise until an agent starts exposing it at scale."
+      },
+      {
+        "type": "heading",
+        "text": "Meet the Einstein Trust Layer: Your Agent's Built-In Security Guard"
+      },
+      {
+        "type": "paragraph",
+        "text": "Salesforce built the fix directly into the platform. Every Agentforce prompt and response automatically passes through the Einstein Trust Layer before it reaches any AI model, and again before any response reaches your customer."
+      },
+      {
+        "type": "paragraph",
+        "text": "Think of it as a two-way security checkpoint. Here's what it does:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Data Masking: PII, contracts, and internal pricing are replaced with placeholder text before the AI sees them. Your sensitive data never leaves Salesforce unprotected.",
+          "Toxicity Detection: Scans both the incoming prompt and the outgoing response. Harmful, biased, or legally sensitive content gets blocked in both directions before it reaches anyone.",
+          "Zero Data Retention: Salesforce has agreements in place with all LLM providers guaranteeing your data is never stored or used for model training. Non-negotiable for GDPR and HIPAA compliance.",
+          "Full Audit Trails: Every agent action is logged in Data 360. When something goes wrong, you'll know exactly what the agent said, when, and to whom."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Guardrails: Where Most Deployments Fall Short"
+      },
+      {
+        "type": "paragraph",
+        "text": "The Trust Layer handles security at the data level. Guardrails handle behaviour at the agent level, and this is where most deployments fall short."
+      },
+      {
+        "type": "paragraph",
+        "text": "Guardrails define the hard boundaries of topics the agent must never engage with, actions it cannot take, and the exact point at which it must hand off to a human. Without them, you either get an agent that oversteps, or one so restricted it adds no real value."
+      },
+      {
+        "type": "paragraph",
+        "text": "The sweet spot is an agent that knows exactly what it's empowered to do, and precisely when to step back and let a human take over."
+      },
+      {
+        "type": "heading",
+        "text": "The Hard Truth About Agentforce Deployments"
+      },
+      {
+        "type": "paragraph",
+        "text": "Here's what the product demos don't show you."
+      },
+      {
+        "type": "paragraph",
+        "text": "Most Agentforce failures aren’t dramatic. There’s no crash, no alert, no obvious warning. The agent just quietly gives the wrong answer, pulls outdated information, or handles something it should’ve escalated, and nobody notices until a customer does."
+      },
+      {
+        "type": "paragraph",
+        "text": "The bigger issue? AI agents don’t question bad CRM data. Duplicate records, stale information, and conflicting knowledge articles all become part of the response."
+      },
+      {
+        "type": "paragraph",
+        "text": "That's why the checklist before go-live matters more than the agent configuration itself:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Is data masking active on all sensitive and PII fields?",
+          "What must the agent escalate and at what threshold?",
+          "Is the audit trail enabled, and is someone actively reviewing it?",
+          "Does every agent have a clearly defined scope of what it handles and what it doesn't?",
+          "Is your underlying CRM data clean, deduplicated, and current?"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Ready to Deploy Agentforce the Right Way?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Agentforce is moving fast. The businesses seeing real results aren't necessarily the ones with the biggest budgets; they're the ones who got the basics right. Clean data, clear boundaries, and a Trust Layer that's actually configured, not just switched on."
+      },
+      {
+        "type": "paragraph",
+        "text": "The question was never whether to deploy AI agents. It's whether the foundation underneath them is solid enough to support it. The good news? It doesn't take long to get there when you know what to fix. If you're figuring out where to start or want a second pair of eyes on an existing deployment, reach out to us."
+      }
+    ]
   }
 ]
