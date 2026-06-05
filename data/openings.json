@@ -291,7 +291,16 @@
       "Work closely with other developers, business analysts, and stakeholders to ensure seamless integration of Salesforce applications with other systems.",
       "Keep abreast of the latest Salesforce features and best practices to continuously improve development processes."
     ],
-    "technicalSkills": {},
+    "technicalSkills": {
+      "general": [
+        "Basic understanding of the Salesforce Platform, CRM concepts, and standard/custom objects.",
+        "Familiarity with Apex, SOQL, and Salesforce automation tools such as Flows.",
+        "Knowledge of HTML, CSS, JavaScript, and Object-Oriented Programming (OOP) concepts.",
+        "Basic understanding of Lightning Web Components (LWC), REST APIs, and integration concepts.",
+        "Familiarity with Visual Studio Code, Git, and software development best practices.",
+        "Strong problem-solving, communication, and collaboration skills, with a willingness to learn and adapt to new technologies."
+      ]
+    },
     "niceToHave": [],
     "qualifications": [
       "Bachelor's degree in Computer Science, Information Technology, or a related field.",
