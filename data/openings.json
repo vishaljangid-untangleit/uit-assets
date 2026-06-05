@@ -111,44 +111,51 @@
     "hasDescription": false
   },
   {
-    "id": "salesforce-business-analyst",
-    "title": "Salesforce Business Analyst",
+    "id": "business-analyst",
+    "title": "Business Analyst",
     "location": "Jaipur",
     "employmentType": "Full-time",
     "experience": "1-3 Years",
     "industry": "Information Technology",
-    "overview": "As a Salesforce Business Analyst, you will play a vital role in bridging the gap between business needs and technical solutions within Salesforce. You will work closely with stakeholders to gather requirements, document processes, and ensure the successful implementation of Salesforce solutions. Success in this position involves collaborating with various departments to enhance user experience, optimize system efficiency, and support organizational goals.",
+    "overview": "As a Business Analyst, you will play a vital role in bridging the gap between business needs and technology solutions. You will work closely with stakeholders to gather requirements, analyze business processes, and support the successful delivery of projects and initiatives. Success in this position involves collaborating with cross-functional teams to improve operational efficiency, enhance user experiences, and drive business outcomes.",
     "responsibilities": [
-      "Conduct discovery sessions and whiteboarding sessions with stakeholders to gather detailed business requirements and translate them into technical specifications for the development team.",
-      "Create detailed process and journey maps to visualize and optimize business workflows.",
-      "Maintain comprehensive documentation of business processes, user requirements, and technical specifications.",
-      "Provide ongoing support and maintenance of Salesforce applications to ensure optimal performance and user satisfaction.",
-      "Work closely with developers, business analysts, and stakeholders to ensure seamless integration of Salesforce solutions with other systems.",
-      "Prepare user manuals and conduct training sessions to ensure successful adoption of new Salesforce functionalities.",
-      "Develop and maintain reports, dashboards, and KPIs to monitor the performance of Salesforce applications."
+      "Conduct discovery sessions and stakeholder workshops to gather detailed business requirements and translate them into clear functional specifications.",
+      "Create detailed process maps, user journeys, and workflow diagrams to visualize and optimize business operations.",
+      "Document business requirements, user stories, acceptance criteria, and process documentation.",
+      "Perform gap analysis and identify opportunities for process improvement and automation.",
+      "Collaborate with project managers, developers, designers, and stakeholders to ensure business requirements are accurately implemented.",
+      "Assist in solution design discussions and validate proposed solutions against business needs.",
+      "Support user acceptance testing (UAT) by creating test scenarios, coordinating testing activities, and documenting outcomes.",
+      "Prepare user guides, training materials, and conduct training sessions to support the successful adoption of new processes and systems.",
+      "Monitor project progress, identify risks or dependencies, and communicate updates to stakeholders.",
+      "Develop and maintain reports, dashboards, and KPIs to measure business performance and project success."
     ],
     "technicalSkills": {
       "general": [
-        "Proficiency in Salesforce.",
-        "Project Management skills, including experience with Agile methodologies such as Scrum and Kanban.",
-        "Strong skills in Requirement Gathering, Process Mapping, and GAP Analysis.",
+        "Strong understanding of business analysis methodologies and best practices.",
+        "Experience in Requirement Gathering, Process Mapping, GAP Analysis, and Documentation.",
+        "Familiarity with Agile methodologies such as Scrum and Kanban.",
+        "Strong analytical and problem-solving skills.",
         "Excellent verbal and written communication skills.",
-        "Ability to work collaboratively in a team environment.",
-        "Knowledge of project management tools like JIRA, Trello, Asana, and Zoho."
+        "Ability to facilitate workshops and engage with stakeholders at different levels of the organization.",
+        "Experience working with project management and collaboration tools such as JIRA, Trello, Asana, Zoho, or similar platforms.",
+        "Ability to work collaboratively in a team environment and manage multiple priorities."
       ]
     },
     "niceToHave": [],
     "qualifications": [
-      "Bachelor's degree in Business Administration, Information Technology, or a related field.",
-      "1-3 years of experience in Salesforce business analysis or a related field."
+      "Bachelor's degree in Business Administration, Information Technology, Engineering, or a related field.",
+      "1-3 years of experience in Business Analysis, Process Improvement, Project Coordination, or a related role.",
+      "Experience working on software implementation, digital transformation, or technology projects is preferred."
     ],
-    "roleImpact": "As a Salesforce Business Analyst, you will contribute to the company's technological advancement by ensuring that Salesforce solutions align with business objectives and enhance overall productivity. Your role is crucial in driving the organization towards achieving its strategic goals through efficient and user-friendly Salesforce applications.\n\n",
+    "roleImpact": "As a Business Analyst, you will contribute to the company's growth by ensuring business needs are clearly understood and translated into effective solutions. Your role is critical in improving processes, supporting successful project delivery, and helping the organization achieve its strategic objectives through data-driven decision-making and operational excellence.\n\n",
     "growthOpportunities": [],
     "softSkills": [],
     "certifications": [],
-    "training": "We are committed to your professional growth and development. On-the-job training related to Salesforce will be provided, ensuring you gain the necessary skills and knowledge to excel in your role. You will have access to resources and support from experienced professionals to help you build a strong foundation in Salesforce business analysis.\n\n",
+    "training": "We are committed to your professional growth and development. On-the-job training and mentorship will be provided to help you strengthen your business analysis, process improvement, and project delivery skills. You will have access to resources and support from experienced professionals to build a successful career in business analysis and consulting.\n\n",
     "growth": [],
-    "hasDescription": true
+    "hasDescription": true,
+    "hubspotValue": "Salesforce Business Analyst"
   },
   {
     "id": "react-developer",
@@ -301,6 +308,71 @@
     "certifications": [],
     "training": "We are committed to your professional growth and development. On-the-job training related to Salesforce will be provided, ensuring you gain the necessary skills and knowledge to excel in your role. You will have access to resources and support from experienced professionals to help you build a strong foundation in Salesforce development.",
     "growth": [],
-    "hasDescription": true
+    "hasDescription": true,
+    "hubspotValue": "Salesforce Developer"
+  },
+  {
+    "id": "seo-executive",
+    "title": "SEO Executive",
+    "location": "Jaipur",
+    "employmentType": "Full-time",
+    "experience": "1-3 Years",
+    "industry": "Information Technology",
+    "overview": "We are looking for a data-driven SEO Specialist to join our growing marketing team. In this role, you will be responsible for improving organic visibility, driving qualified traffic, and generating leads through modern search optimization strategies. Beyond traditional SEO, you will help optimize content for AI-powered search experiences, answer engines, and emerging search technologies.\n\nYou will work closely with content, design, and development teams to enhance website performance, improve search rankings, and maximize visibility across search engines and AI-driven discovery platforms.",
+    "responsibilities": [
+      "Conduct keyword research, search intent analysis, and competitor research to identify growth opportunities.",
+      "Develop and execute On-Page, Off-Page, and Technical SEO strategies.",
+      "Optimize website content, metadata, internal linking, and site architecture for improved search visibility.",
+      "Create and implement Answer Engine Optimization (AEO) strategies to improve visibility in AI-powered search experiences.",
+      "Optimize content for Google AI Overviews, featured snippets, People Also Ask sections, and zero-click searches.",
+      "Collaborate with content teams to create high-quality, search-friendly, and user-focused content.",
+      "Implement structured data and schema markup to improve content discoverability.",
+      "Monitor website performance, keyword rankings, organic traffic, and conversion metrics.",
+      "Conduct regular SEO audits and recommend technical improvements.",
+      "Build and manage high-quality backlink acquisition campaigns using ethical SEO practices.",
+      "Analyze website performance using analytics and SEO tools and provide actionable recommendations.",
+      "Stay updated with search engine algorithm updates, AI search developments, and industry best practices.",
+      "Prepare monthly performance reports and growth recommendations."
+    ],
+    "technicalSkills": {
+      "seoAndAiSearchOptimization": [
+        "Strong understanding of On-Page SEO, Off-Page SEO, and Technical SEO.",
+        "Knowledge of Answer Engine Optimization (AEO) and Generative Engine Optimization (GEO).",
+        "Experience optimizing content for Google AI Overviews, featured snippets, and voice search.",
+        "Understanding of search intent, semantic search, and entity-based SEO.",
+        "Familiarity with E-E-A-T principles (Experience, Expertise, Authoritativeness, and Trustworthiness).",
+        "Experience implementing structured data and schema markup.",
+        "Knowledge of website crawling, indexing, Core Web Vitals, and site performance optimization."
+      ],
+      "toolsAndAnalytics": [
+        "Experience with Google Analytics 4 (GA4).",
+        "Experience with Google Search Console.",
+        "Familiarity with Google Tag Manager.",
+        "Experience using SEO tools such as Ahrefs, SEMrush, Moz, Screaming Frog, or similar platforms.",
+        "Familiarity with AI-powered SEO and content optimization tools."
+      ],
+      "general": [
+        "Strong analytical and problem-solving skills.",
+        "Excellent communication and collaboration skills.",
+        "Ability to manage projects and deadlines.",
+        "Data-driven mindset with attention to detail.",
+        "Ability to adapt to changing search technologies and trends."
+      ]
+    },
+    "niceToHave": [],
+    "qualifications": [
+      "Bachelor's degree in Marketing, Business, Communications, Information Technology, or a related field.",
+      "1-3 years of experience in SEO, Organic Growth, Content Optimization, or Digital Marketing.",
+      "Experience working with B2B, SaaS, technology, or professional services businesses is preferred.",
+      "Basic understanding of content marketing and conversion optimization is a plus."
+    ],
+    "roleImpact": "As an SEO Specialist, you will play a key role in increasing brand visibility, driving organic growth, and supporting lead generation efforts. Your work will directly impact website traffic, content performance, and business growth while helping the company adapt to the evolving landscape of AI-powered search.\n\n",
+    "growthOpportunities": [],
+    "softSkills": [],
+    "certifications": [],
+    "training": "We are committed to continuous learning and professional growth. You will have opportunities to work on diverse SEO and digital marketing projects, learn advanced optimization strategies, explore AI search technologies, and collaborate with experienced marketing and technology professionals.\n\n",
+    "growth": [],
+    "hasDescription": true,
+    "hubspotValue": "SEO Executive"
   }
 ]
