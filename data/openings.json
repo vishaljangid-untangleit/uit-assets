@@ -419,5 +419,26 @@
     "growth": [],
     "hasDescription": true,
     "hubspotValue": "SEO Executive"
+  },
+  {
+    "id": "b2b-sales-manager",
+    "title": "B2B Sales Manager",
+    "location": "Jaipur",
+    "employmentType": "Full-time",
+    "experience": "Entry level",
+    "industry": "Information Technology",
+    "overview": "",
+    "responsibilities": [],
+    "technicalSkills": {},
+    "niceToHave": [],
+    "qualifications": [],
+    "roleImpact": "",
+    "growthOpportunities": [],
+    "softSkills": [],
+    "certifications": [],
+    "training": "",
+    "growth": [],
+    "hasDescription": false,
+    "hubspotValue": "B2B Sales Manager"
   }
 ]
